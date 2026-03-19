@@ -1,6 +1,6 @@
 # Vibe Checking Machine
 
-## A JavaScript app that assesses the user's vibe based on a series of questions and displays a corresponding result.
+## A JavaScript app that evaluates the user's vibe and shows the result.
 
 How to Run Locally:
 
